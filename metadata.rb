@@ -1,5 +1,5 @@
 name 'automate-compliance'
-maintainer 'Darin ganitch'
+maintainer 'Darin Ganitch'
 maintainer_email 'dganitch@gmail.com'
 license 'All Right, whoohoo!!!!'
 description 'Installs/Configures automate-compliance'
