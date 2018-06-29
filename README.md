@@ -1,2 +1,4 @@
-# automate-compliance-cookbook
-cookbook for automate compliance, 
+# automate-compliance
+
+TODO: Enter the cookbook description here.
+
